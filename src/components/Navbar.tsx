@@ -7,7 +7,7 @@ export const Navbar = () => (
     <div className="navbar-start">
       <Link className="avatar text-xl w-24 h-24" href="/">
         <Image
-          className="btn-circle btn-ghost btn animate-rollIn"
+          className="btn-circle btn-ghost btn animate-rollIn "
           src="/logo.png"
           alt="Brand Logo"
           width={120}
